@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm anonymous</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous9679&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous9679" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous9679" alt="anonymous9679" /></a> </p>
-
 - 📫 How to reach me **anonymous00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Coding Profiles :</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/anonymous_000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anonymous_000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anonymous_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous_00" height="30" width="40" /></a>
