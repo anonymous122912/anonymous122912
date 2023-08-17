@@ -6,7 +6,7 @@
 <h3 align="left">My Coding Profiles :</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/anonymous_000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anonymous_000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anonymous_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous_00" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankan_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous_00" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anonymous_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anonymous_00" height="30" width="40" /></a>
 </p>
 
